@@ -20,10 +20,18 @@ public class MyClass
 	{
 		System.out.println("MyClass.m3() method ");
 	}
+
 	public void m5()
 	{
 		System.out.println("MyClass.m5() method ");
 	}
+
+	public void m4()
+	{
+		System.out.println("MyClass.m4()");
+	}
+	
+
 	public class Fun1 
 	{
 		public void f1()
