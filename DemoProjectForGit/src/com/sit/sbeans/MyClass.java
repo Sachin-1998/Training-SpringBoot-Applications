@@ -16,6 +16,10 @@ public class MyClass
 	{
 		System.out.println("MyClass.m2() method");
 	}
+	public void m3()
+	{
+		System.out.println("MyClass.m3() method ");
+	}
 	public class Fun1 
 	{
 		public void f1()
