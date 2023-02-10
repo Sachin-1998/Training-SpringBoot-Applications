@@ -16,7 +16,14 @@ public class MyClass
 	{
 		System.out.println("MyClass.m2() method");
 	}
-	
+	public class Fun1 
+	{
+		public void f1()
+		{
+			System.out.println("Fun1.f1()");
+		}
+
+	}
 	
 
 }
