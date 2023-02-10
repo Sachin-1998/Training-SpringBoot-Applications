@@ -24,6 +24,14 @@ public class MyClass
 		}
 
 	}
+	public class Fun2 
+	{
+		public void f2()
+		{
+			System.out.println("Fun2.f2()");
+		}
+
+	}
 	
 
 }
