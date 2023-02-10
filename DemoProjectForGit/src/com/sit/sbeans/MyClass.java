@@ -12,5 +12,9 @@ public class MyClass
 	{
 		System.out.println("MyClass.m1() method ");
 	}
+	public void m2()
+	{
+		System.out.println("MyClass.m2() method");
+	}
 
 }
