@@ -8,5 +8,9 @@ public class MyClass
 	{
 		return new Date();
 	}
+	public void m1()
+	{
+		System.out.println("MyClass.m1():: method...");
+	}
 
 }
